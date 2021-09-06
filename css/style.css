@@ -1,0 +1,40 @@
+body {
+    background: url(../img/bckgroundSnake.png);
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+}
+
+.btn {
+    width: 170px;
+    display: block;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 20px auto;
+}
+
+.card {
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+}
+
+
+.btn-controls {
+    color: rgb(255, 255, 255);
+
+}
+
+.options {
+    height: 36px;
+    width: 36px;
+    margin-right: 15px;
+    background: url(../img/question.png);
+    border: none;
+}
+
+.myDudes {
+    background: url(../img/wednesday.jpg);
+}

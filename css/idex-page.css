@@ -1,0 +1,25 @@
+body {
+    background: url('../img/mainBckg.jpg');
+
+}
+
+.carousel {
+    box-sizing: border-box;
+    display: block;
+    width: 800px;
+    height: 600px;
+    margin: 5% auto;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+.carousel-control-prev {
+    color: black;
+}
+
+.linkTo {
+    color: black;
+    text-decoration: none;
+}

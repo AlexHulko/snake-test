@@ -1,3 +1,3 @@
 uovi
 fjfjfjf
-cccccgit status
+cccccgit statusgit config 
